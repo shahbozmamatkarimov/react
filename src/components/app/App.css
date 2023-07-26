@@ -1,0 +1,25 @@
+.App {
+  margin: 100px auto;
+}
+
+.content {
+  border-radius: 10px;
+  box-shadow: 15px 15px 15px grey;
+  margin: 25px;
+  padding: 20px;
+}
+
+
+/* search */
+
+.search-input {
+  padding: 2rem;
+  border-radius: 10px;
+  font-size: 25px;
+}
+
+/* movie_list_item */
+
+.eyes {
+  border: none;
+}
